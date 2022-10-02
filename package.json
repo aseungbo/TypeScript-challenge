@@ -1,0 +1,22 @@
+{
+  "name": "typescript-challenge",
+  "version": "1.0.0",
+  "description": "nomadcoder TypeScript",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aseungbo/TypeScript-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aseungbo/TypeScript-challenge/issues"
+  },
+  "homepage": "https://github.com/aseungbo/TypeScript-challenge#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
